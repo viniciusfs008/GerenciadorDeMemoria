@@ -20,6 +20,7 @@ seguido pela quantidade de memória que está sendo solicitada em bytes e, final
 (W) worst-fit; (F) first-fit; (B) Best-fit.
 
 Similarmente, o comando para liberar a memória alocada para o processo P0 aparecerá como:
+
 alocador> RL P0
 
 O comando para realizar a compactação da memória deve ser feito da seguinte forma:
